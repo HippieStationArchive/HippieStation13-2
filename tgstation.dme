@@ -1319,6 +1319,7 @@
 #include "code\modules\hippie\pool\pool_noodles.dm"
 #include "code\modules\hippie\pool\pool_wires.dm"
 #include "code\modules\hippie\pool\sharks.dm"
+#include "code\modules\hippie\templatable_engine\docking.dm"
 #include "code\modules\holiday\easter.dm"
 #include "code\modules\holiday\holidays.dm"
 #include "code\modules\holodeck\area_copy.dm"
