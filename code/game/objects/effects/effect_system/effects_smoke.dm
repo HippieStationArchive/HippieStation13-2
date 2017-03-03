@@ -20,8 +20,7 @@
 /obj/effect/particle_effect/smoke/New()
 	alpha = 0
 	..()
-	spawn(0)
-		animate(src, alpha = 255, time = 5)
+	animate(src, alpha = 255, time = 5)
 	create_reagents(500)
 	START_PROCESSING(SSobj, src)
 
