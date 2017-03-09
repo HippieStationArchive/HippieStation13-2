@@ -10,8 +10,8 @@
 	var/id = 1
 	var/auto_close = 1200
 	var/auto_close_on_mob = 100
-	var/sound_open = 'sound/hippie/machines/blast_door.ogg'
-	var/sound_close = 'sound/hippie/machines/blast_door.ogg'
+	var/sound_open = "sound/hippie/machines/blast_door.ogg"
+	var/sound_close = "sound/hippie/machines/blast_door.ogg"
 	var/open = FALSE
 
 /obj/machinery/disposal/trapdoor/proc/open()
